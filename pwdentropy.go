@@ -76,9 +76,9 @@ func getSizeOfThePoolOfCharacterSet(password string) int {
 
 const (
 	poolSizePunctuationAndSymbols int = 33
-	poolSizeDigits                    = 10
-	poolSizeAlphabetUppercase         = 26
-	poolSizeAlphabetLowercase         = 26
+	poolSizeDigits                int = 10
+	poolSizeAlphabetUppercase     int = 26
+	poolSizeAlphabetLowercase     int = 26
 )
 
 func isPunctuationAndSymbols(r rune) bool {
