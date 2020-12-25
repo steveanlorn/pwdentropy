@@ -1,6 +1,4 @@
 # pwdentropy
-Measure password strength using entropy value.
-# pwdentropy
 Responsible to measure password strength using entropy value.
 
 ## How to Use
